@@ -1,6 +1,6 @@
 import { useState } from "react";
 import S from "./Card.module.scss";
-import Button from "../button/button.jsx";
+import Button from "../button/Button.jsx";
 
 function Card({ id, image, title, description, buttonText, categoria }) {
   const [inscrito, setInscrito] = useState(false);
@@ -47,3 +47,4 @@ function Card({ id, image, title, description, buttonText, categoria }) {
 
 
 export default Card;
+
