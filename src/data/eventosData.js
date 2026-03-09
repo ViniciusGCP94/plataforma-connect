@@ -1,7 +1,7 @@
 export const eventosData = [
   {
     id: 1,
-    image: "/images/cards/eventos-palestras/empoderamento-jovem.jpg",
+    image: "/images/cards/eventos-palestras/empoderamento-jovem.webp",
     categoria: "Eventos e Palestras",
     title: "Empoderando Jovens para o Futuro",
     description: "Atividade: Palestra motivacional sobre liderança jovem e transformação social. Impacto: Inspirar adolescentes.",
@@ -9,7 +9,7 @@ export const eventosData = [
   },
   {
     id: 2,
-    image: "/images/cards/eventos-palestras/transformacao-tecnologica.jpg",
+    image: "/images/cards/eventos-palestras/transformacao-tecnologica.webp",
     categoria: "Eventos e Palestras",
     title: "Tecnologia que Transforma",
     description: "Atividade: Workshop de introdução à programação e inovação digital. Impacto: Preparar jovens para o mercado.",
@@ -17,7 +17,7 @@ export const eventosData = [
   },
   {
     id: 3,
-    image: "/images/cards/eventos-palestras/primeiro-emprego.png",
+    image: "/images/cards/eventos-palestras/primeiro-emprego.webp",
     categoria: "Eventos e Palestras",
     title: "Carreira e Primeiro Emprego",
     description: "Atividade: Palestra com profissionais de RH sobre currículo e postura. Impacto: Ajudar jovens a conquistar vagas.",

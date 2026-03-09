@@ -16,7 +16,7 @@ export default function Home() {
         </div>
       </div>
       <div className={S.imageContainer}>
-        <img className={S.heroImage} src="/images/home-image.png" alt="Hero Image" />
+        <img className={S.heroImage} src="/images/home-image.webp" alt="Hero Image" />
       </div> 
     </section>
 

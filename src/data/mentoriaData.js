@@ -1,7 +1,7 @@
 export const mentoriaData = [
   {
     id: 1,
-    image: "/images/cards/mentoria/carreira-emprego.jpg",
+    image: "/images/cards/mentoria/carreira-emprego.webp",
     categoria: "Mentoria",
     title: "Mentoria de Carreira e Emprego",
     description: "Orientação sobre currículo, entrevistas e primeiros passos no mercado de trabalho.",
@@ -9,7 +9,7 @@ export const mentoriaData = [
   },
   {
     id: 2,
-    image: "/images/cards/mentoria/compartilhe-experiencia.png",
+    image: "/images/cards/mentoria/compartilhe-experiencia.webp",
     categoria: "Mentoria",
     title: "Compartilhe Experiência",
     description: "Oriente jovens e profissionais iniciantes em sua área.",
@@ -17,7 +17,7 @@ export const mentoriaData = [
   },
   {
     id: 3,
-    image: "/images/cards/mentoria/acompanhamento.png",
+    image: "/images/cards/mentoria/acompanhamento.webp",
     categoria: "Mentoria",
     title: "Acompanhamento",
     description: "Participe como guia em jornadas de aprendizado e desenvolvimento.",

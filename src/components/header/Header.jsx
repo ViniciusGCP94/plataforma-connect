@@ -25,7 +25,7 @@ function Header() {
           <Link to="/">
             <img
               className={S.imgLogo}
-              src="/images/logo.png"
+              src="/images/logo.webp"
               alt="Imagem de logo do site sendo representada por uma mão segurando um coração, simbolizando apoio"
             />
           </Link>
