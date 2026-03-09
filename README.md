@@ -202,13 +202,14 @@ npm run preview
 
 ## 📱 Responsividade
 
-A aplicação é **totalmente responsiva** e foi desenvolvida com abordagem **mobile-first**:
+A aplicação é **totalmente responsiva**:
 
 ### Breakpoints
 
-- **Mobile:** < 768px (1 coluna)
-- **Tablet:** 768px - 1024px (2 colunas)
 - **Desktop:** > 1024px (3 colunas)
+- **Tablet:** 768px - 1024px (2 colunas)
+- **Mobile:** < 768px (1 coluna)
+
 
 ### Técnicas Utilizadas
 
@@ -286,7 +287,7 @@ const doacaoData = await response.json();
 - 🔄 **React Hooks** - useState para gerenciamento de estado
 - 📦 **Separação de responsabilidades** - Dados separados da UI
 - 🎭 **Animações CSS** - Transições suaves e profissionais
-- 📱 **Mobile-first** - Design responsivo desde o início
+- 📱 **Responsividade** - Design responsivo desde o início
 - 🔐 **Persistência local** - localStorage para inscrições
 - 🌐 **SPA** - Single Page Application com React Router
 
