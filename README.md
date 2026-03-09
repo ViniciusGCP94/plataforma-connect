@@ -1,6 +1,6 @@
 # 🤝 Plataforma Social - Conectando Pessoas e Projetos
 
-> Projeto final do curso Fullstack - Uma plataforma digital para conectar iniciativas sociais, voluntários e pessoas interessadas em gerar impacto positivo na sociedade.
+> Projeto final do Modulo Front-End do curso Fullstack Javascript Vai Na Web - Uma plataforma digital para conectar iniciativas sociais, voluntários e pessoas interessadas em gerar impacto positivo na sociedade.
 
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SCSS](https://img.shields.io/badge/SCSS-Modules-CC6699?style=for-the-badge&logo=sass&logoColor=white)
