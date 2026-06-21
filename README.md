@@ -330,9 +330,9 @@ Este projeto me permitiu praticar e consolidar conhecimentos em:
 ## 🚧 Roadmap Futuro
 
 ### Fase 2 - Backend (Planejado)
-- [ ] API REST com Node.js/Express
-- [ ] Banco de dados PostgresSQL
-- [ ] Sistema de autenticação JWT
+- [x] API REST com Node.js/Express
+- [x] Banco de dados PostgresSQL
+- [x] Sistema de autenticação JWT
 - [ ] Upload de imagens
 
 ### Fase 3 - Features Avançadas
