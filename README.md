@@ -331,7 +331,7 @@ Este projeto me permitiu praticar e consolidar conhecimentos em:
 
 ### Fase 2 - Backend (Planejado)
 - [ ] API REST com Node.js/Express
-- [ ] Banco de dados MongoDB
+- [ ] Banco de dados PostgresSQL
 - [ ] Sistema de autenticação JWT
 - [ ] Upload de imagens
 
